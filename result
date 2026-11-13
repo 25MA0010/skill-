@@ -1,1 +1,146 @@
-
+{
+"title": "Professional CV Evaluation Report",
+"candidate_label": "Sangita Chatterjee",
+"assessment_category": "Corporate Sector",
+"position_title": "General Corporate Opportunity",
+"assessment_type": "General CV assessment",
+"eligibility_status": "Cannot determine",
+"overall_score": 75.0,
+"overall_band": "Competent",
+"job_alignment_score": null,
+"summary": "The CV presents a strong combination of data and research skills, policy research exposure, business/management experience, and an ongoing M.A. in Digital Humanities at IIT (ISM) Dhanbad. The strongest evidence is in data analysis, research, reporting, strategic planning and policy-oriented work. The main limitation for a general corporate assessment is the relatively short documented professional experience and limited evidence of measurable business outcomes, leadership at scale, or role-specific corporate achievements. Because no specific job description or mandatory requirements were supplied, mandatory eligibility for a particular position cannot be determined.",
+"criteria": [
+{
+"name": "Educational Qualifications",
+"weight": 15,
+"score": 4,
+"weighted_points": 12.0,
+"comment": "The CV documents an M.A. in Digital Humanities from IIT (ISM) Dhanbad with a CGPA of 7.8/10 and a B.Com. (Hons.) with 77.1%. The combination is relevant to data, research and business-oriented roles.",
+"evidence": ""M.A. in Digital Humanities — IIT (ISM) Dhanbad — CGPA: 7.8/10" and "B.Com. (Hons.) — University of Gour Banga — 77.1%"",
+"gap": "The CV does not establish eligibility for any specific corporate position because no particular job requirement was supplied.",
+"next_step": "Tailor the education section toward the target role by highlighting the most relevant coursework, projects or specialization."
+},
+{
+"name": "Relevant Work Experience",
+"weight": 20,
+"score": 3,
+"weighted_points": 12.0,
+"comment": "The CV documents management-trainee experience involving business-data analysis, MIS reporting, dashboards, strategic planning, process improvement and project coordination, along with another management-trainee role.",
+"evidence": ""Analyzed and validated business data; prepared MIS reports, dashboards, and business presentations to support decision-making."",
+"gap": "The documented corporate experience is relatively short and the CV does not provide quantified business outcomes such as revenue impact, cost savings, efficiency improvements or project scale.",
+"next_step": "Where truthful and available, add measurable outcomes, project scope, tools used and the business impact of completed work."
+},
+{
+"name": "Technical and Professional Skills",
+"weight": 20,
+"score": 5,
+"weighted_points": 20.0,
+"comment": "The CV lists a broad technical toolkit covering Python, R, Jamovi, data visualisation, NLP, text mining, generative AI, quantitative and qualitative research, Excel, SPSS and MS Office. Professional skills include analytical thinking, strategic planning, project coordination and risk assessment.",
+"evidence": ""Python, R, Jamovi, Data Visualisation, NLP, Text Mining, Generative AI, Quantitative Research, Qualitative Research"",
+"gap": "Most technical capabilities are presented as a skills list rather than demonstrated through detailed projects or quantified results.",
+"next_step": "Connect the strongest technical skills to specific projects, datasets, dashboards, analyses or research outputs."
+},
+{
+"name": "Project and Internship Experience",
+"weight": 15,
+"score": 4,
+"weighted_points": 12.0,
+"comment": "The CV documents business, policy and social-research activities. The India House policy role and JSSBERT research role demonstrate applied research, data collection, literature review and policy analysis.",
+"evidence": ""Conducted policy research and data analysis to evaluate India's housing policies" and "Conducted literature review of 12+ academic papers and policy reports"",
+"gap": "The CV does not provide a dedicated project section with project objectives, methodology, tools and measurable outputs.",
+"next_step": "Create a selected-projects section for 2–3 strongest research/data/business projects."
+},
+{
+"name": "Communication and Leadership Evidence",
+"weight": 10,
+"score": 3,
+"weighted_points": 6.0,
+"comment": "The CV provides evidence of presentations, business reporting, cross-functional coordination and participation in competitions and public-policy activities.",
+"evidence": ""Coordinated cross-functional projects" and "prepared MIS reports, dashboards, and business presentations"",
+"gap": "There is limited explicit evidence of independently leading teams, managing stakeholders, training others or owning major deliverables.",
+"next_step": "Add specific examples of presentations delivered, teams coordinated, stakeholders managed or projects led, where documented."
+},
+{
+"name": "Achievements and Certifications",
+"weight": 10,
+"score": 4,
+"weighted_points": 8.0,
+"comment": "The CV contains multiple competitions, a digital-literacy certification, selection for an MPP programme, and participation in academic/public-policy events.",
+"evidence": ""Tata Imagination Challenge 2025 (Tata Group)" and "Selected for admission to the Master of Public Policy (MPP) Programme"",
+"gap": "Several achievements are listed without indicating the level of achievement, ranking, selection rate or outcome.",
+"next_step": "Where applicable, specify whether each competition involved selection, finalist status, ranking, award or another verifiable outcome."
+},
+{
+"name": "Job Description Alignment",
+"weight": 10,
+"score": 3,
+"weighted_points": 6.0,
+"comment": "For a general corporate assessment, the CV shows useful overlap with analytical, research, business reporting, strategic planning and project-coordination functions. However, no specific job description was supplied.",
+"evidence": ""Supported business research, strategic planning, process improvement, and workflow optimization initiatives."",
+"gap": "A precise job-alignment score cannot be calculated without a specific opportunity and its essential/preferred requirements.",
+"next_step": "For each application, tailor the summary, skills and experience bullets to the employer's stated essential skills and domain requirements."
+}
+],
+"eligibility_checks": [],
+"matched_requirements": [],
+"missing_requirements": [],
+"strengths": [
+"Strong combination of data analytics, research and policy-oriented skills.",
+"Good academic profile combining B.Com. with an M.A. in Digital Humanities.",
+"Relevant hands-on exposure to MIS reporting, dashboards, business research and strategic planning.",
+"Documented qualitative and quantitative research experience, including surveys, interviews, archival research and SPSS/Excel work.",
+"Broad technical toolkit including Python, R, NLP, text mining, data visualisation and generative AI."
+],
+"weaknesses": [
+"Professional experience is relatively short and mainly at trainee/early-career level.",
+"Several technical skills are listed without enough project-based evidence showing how they were applied.",
+"Corporate achievements lack quantified outcomes such as cost savings, efficiency gains, revenue impact or scale.",
+"The CV does not yet clearly target one specific corporate function.",
+"There is no dedicated projects section to showcase analytical or research work."
+],
+"recommended_roles": [
+{
+"role": "Research Analyst",
+"basis": "Documented policy research, quantitative and qualitative research, literature review, data collection and analytical skills."
+},
+{
+"role": "Data/Business Analyst – Entry Level",
+"basis": "Documented business-data analysis, MIS reporting, dashboards, Excel, Python, R and data visualisation skills."
+},
+{
+"role": "Business Research / Strategy Associate",
+"basis": "Documented business research, strategic planning, process improvement and workflow optimisation experience."
+},
+{
+"role": "Public Policy / Governance Analyst",
+"basis": "Documented housing-policy research, social research, policy analysis and public-policy orientation."
+},
+{
+"role": "ESG/Sustainability Research Associate",
+"basis": "Research and policy background provides relevant transferable analytical skills, although the CV currently does not document specific ESG/BRSR experience."
+}
+],
+"priority_actions": [
+"Add 2–3 quantified achievements to the professional-experience section wherever the underlying evidence exists.",
+"Create a Selected Projects section demonstrating Python/R/Excel/SPSS, data visualisation, research or policy-analysis work.",
+"Develop targeted versions of the CV for data/business analytics, research/strategy, and public-policy/ESG roles instead of using one broad positioning.",
+"Convert skills that are currently only listed into demonstrated evidence through project descriptions, outputs and tools used.",
+"Strengthen the professional summary so that it clearly identifies the target function rather than combining several broad areas."
+],
+"cv_improvement_suggestions": [
+"The current headline "Data & Research Analytics | Strategic Management | Public Policy & Governance" is broad. Use a more targeted headline for each application.",
+"Move the strongest technical skills closer to the top and group them by category, such as Analytics, Research, Programming and Tools.",
+"Add a Selected Projects section containing project title, objective, methodology/tools and outcome.",
+"Where accurate, replace activity-oriented wording such as "supported" or "assisted" with precise descriptions of the work personally completed.",
+"Add measurable results to experience bullets whenever they can be verified.",
+"Consider reducing space devoted to school-level education as professional experience grows, while retaining the degrees and relevant academic achievements.",
+"Clarify the status of the M.A. as ongoing if that is the intended meaning of the 2027 date."
+],
+"limitations": [
+"This is a general corporate-sector assessment because no specific job description, organisation or mandatory eligibility criteria were supplied.",
+"The score measures the quality and relevance of documented CV evidence, not probability of selection.",
+"The assessment cannot verify achievements, employment records, certifications or skills beyond what is documented in the CV.",
+"Missing information was not treated as proof that the candidate lacks the underlying experience or skill.",
+"A specific opportunity assessment could produce a substantially different result because essential requirements and domain fit would change."
+]
+}
